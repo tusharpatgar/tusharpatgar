@@ -130,15 +130,6 @@ tushar = {
 
 ---
 
-## 📊 GitHub & Data Engineering Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tusharpatgar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=9D38BD" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharpatgar&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED" alt="Top Languages" />
-</p>
-
----
-
 ## 🤝 Let's Collaborate
 
 Open to: **Data Engineering Projects · ETL Development · PySpark Projects · Cloud Data Engineering · Open Source**
