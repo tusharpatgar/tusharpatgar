@@ -6,7 +6,7 @@
 # 🧠 Tushar Patgar — Data Engineer
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Data+Engineer;ETL+Developer;PySpark+%7C+SQL+%7C+Databricks;AWS+Data+Engineering;Building+Reliable+Data+Pipelines" alt="Typing SVG" loading="lazy" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Data+Engineer;PySpark+%7C+SQL+%7C+Databricks;AWS+Data+Engineering;Building+Reliable+Data+Pipelines" alt="Typing SVG" loading="lazy" />
 </p>
 
 <p align="center">
@@ -24,32 +24,42 @@
 ## 🔬 Data Engineering Focus
 
 ```python
-data_engineer = {
-    "name": "Tushar Patgar",
-    "role": "Data Engineer | ETL Developer",
-    "location": "Bengaluru, India",
-    "experience": "1 year",
-    "focus_areas": [
-        "ETL / ELT Pipeline Development",
+tushar = {
+    "role": "Data Engineer ",
+    "domain": "FinTech Data Engineering",
+    "core_strengths": [
+        "ETL Pipeline Development",
+        "Data Warehousing & Data Modelling",
         "PySpark & Apache Spark",
-        "SQL & Data Warehousing",
+        "SQL & T-SQL",
         "Databricks & Delta Lake",
         "AWS Data Engineering",
-        "Medallion Architecture",
-        "Data Quality & Validation",
-        "Incremental Data Processing",
     ],
-    "primary_stack": [
-        "Python",
-        "SQL",
-        "PySpark",
+    "engineering_focus": [
+        "Bronze–Silver–Gold Architecture",
+        "Incremental Data Processing",
+        "Change Data Capture (CDC)",
+        "Data Quality & Validation",
+        "Reconciliation & Data Integrity",
+        "Performance Optimization",
+    ],
+    "cloud_stack": [
+        "AWS S3",
+        "AWS DMS",
+        "AWS Glue",
+        "AWS Lambda",
+        "Amazon Redshift",
+        "Amazon EC2",
+        "Amazon CloudWatch",
+    ],
+    "etl_stack": [
+        "SSIS",
+        "Apache Airflow",
         "Databricks",
-        "AWS",
+        "PySpark",
+        "SQL Server",
     ],
 }
-```
-
----
 
 ## 🛠️ Technical Toolkit
 
