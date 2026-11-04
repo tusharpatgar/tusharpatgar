@@ -22,7 +22,6 @@
 
 <p align="center">
   <a href="https://github.com/tusharpatgar"><img src="https://img.shields.io/badge/Public_Repositories-7_Active-0284c7?style=for-the-badge&logo=github&logoColor=white" alt="Public Repositories" /></a>
-  <a href="https://github.com/tusharpatgar"><img src="https://img.shields.io/github/followers/tusharpatgar?style=for-the-badge&logo=github&color=2563EB" alt="Followers" /></a>
   <img src="https://img.shields.io/badge/Experience-1.4_Years-10B981?style=for-the-badge&logo=clockify&logoColor=white" alt="Experience" />
   <img src="https://img.shields.io/badge/Location-Bengaluru%2C_India-6366F1?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
